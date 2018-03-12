@@ -5,3 +5,4 @@ void Picture_shuzi(float p,int a,int b);  //¸¡µãĞÍĞ¡Êı   ÏÔÊ¾ĞĞÊı£¬ÏÔÊ¾ÁĞÊı¡£ÏÔÊ
 void Picture_hanzi(unsigned char *p[],int nn,int a,int b); //ÏÔÊ¾µÄºº×ÖÊı×é   ÏÔÊ¾ºº×ÖµÄ¸öÊı   ÏÔÊ¾µÄĞĞÊı   ÏÔÊ¾µÄÁĞÊı
 void Picture_shuzizheng(int p,int a,int b);                //ÕûĞÎÊı     ÏÔÊ¾µÄĞĞÊı    ÏÔÊ¾µÄÁĞÊı
 void Picture_shuzi2(float p,int a,int b);//¸¡µãĞÍĞ¡Êı  ÏÔÊ¾ĞĞÊı   ÏÔÊ¾ÁĞÊı ¡£¸ñÊ½2.12ĞÎÊ½
+ 
